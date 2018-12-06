@@ -2,7 +2,7 @@
 
 build a Laravel app that takes a post
 
-This is the first ever Laravel app that I have built.
+Please bear in mind this is the first ever Laravel app that I have built. I also had to figure out configuration, the structure and installation.
 
 I chose this since it was something we spoke about so I wanted to see how quickly I could adopt it. It's not too hard but next time I would try a API only app as that would be easier I think.
 
@@ -17,3 +17,4 @@ To start this app you will need to have your own .env config file as the directo
 
 It does save to the database, I felt you want to see the code behind the app and not how it runs.
 
+Note: normally I keep a good git history but for this it was a learning experience and I didn't involve git with this project (most people want to see git commits)
